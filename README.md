@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeanLowes
-- 👀 I’m interested in learning how to code.
-- 🌱 I’m currently learning the basics of coding.
-- 💞️ I’m looking to collaborate on improving my coding skills
+- 👀 I’m interested in cybersecurity, ethical hacking, coding, and computers in general
+- 🌱 I’m currently learning the basics of cybersecurity through tryhackme
+- 💞️ I’m looking to collaborate on anything related to cybersecurity!
 - 📫 How to reach me deanlowes@outlook.com
 
 <!---
