@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeanLowes
-- 👀 I’m interested in cybersecurity, ethical hacking, coding, and computers in general
-- 🌱 I’m currently learning the basics of cybersecurity through tryhackme
-- 💞️ I’m looking to collaborate on anything related to cybersecurity!
+- 👀 I’m interested in Cybersecurity, GRC, Digital Forensics, and Cryptography
+- 🌱 I’m currently studying for various certificates to get my foot in the door in the industry
+- 💞️ I’m looking to collaborate on anything related to cybersecurity
 - 📫 How to reach me deanlowes@outlook.com
 
 <!---
